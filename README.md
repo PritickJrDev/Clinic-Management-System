@@ -1,5 +1,5 @@
 # Clinic-Management-System
-This was my 2nd year minor project. 
+This was my 2nd year minor project.<br>
 Project type: standalone application.
 Duration: 3 months.
 Status: completed.
