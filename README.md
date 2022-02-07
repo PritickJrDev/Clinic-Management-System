@@ -1,6 +1,8 @@
 # Clinic-Management-System
 This was my 2nd year minor project.<br>
 Project type: standalone application.<br>
+language: Java<br>
+IDE: NetBeans<br>
 Duration: 3 months.<br>
 Status: completed.<br>
 -------------------------------------
