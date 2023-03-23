@@ -1,4 +1,6 @@
 # Clinic-Management-System
+switch to "master" branch to view the source code 
+
 This was my 2nd year minor project.<br>
 Project type: standalone application.<br>
 language: Java<br>
