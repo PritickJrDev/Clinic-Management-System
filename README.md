@@ -1,5 +1,4 @@
 # Clinic-Management-System
-📂switch to "master" branch to view the source code 
 
 This was my 2nd year minor project.<br>
 Project type: standalone application.<br>
@@ -8,7 +7,7 @@ IDE: NetBeans<br>
 Duration: 3 months.<br>
 Status: completed.<br>
 -------------------------------------
-Find the source code on "master" branch<br>
+📁Find the source code on "master" branch<br>
 
 Screenshots:- <br>
 
